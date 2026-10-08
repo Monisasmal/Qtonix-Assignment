@@ -40,9 +40,7 @@ It features a clean two-row navigation bar, a dismissible top banner, a hero sec
 
 ---
 
-## 🙋‍♀️ Author
-
-**Manaswini Sasmal**
+## 🙋‍♀️ Author - Manaswini Sasmal
 
 📲 - 6370094643
 
